@@ -1,4 +1,4 @@
-#loading required libraries
+#loading required/used libraries
 library(plyr)
 library(dplyr)
 
